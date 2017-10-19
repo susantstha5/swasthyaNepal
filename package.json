@@ -1,0 +1,29 @@
+{
+  "name": "swasthya-nepal",
+  "version": "1.0.0",
+  "description": "website for swasthya nepal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "susant",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "*",
+    "del": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-changed": "^*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-html-replace": "*",
+    "gulp-htmlmin": "*",
+    "gulp-imagemin": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "run-sequence": "*",
+    "gulp-concat":"*",
+    "materialize-css":"*"
+  }
+}
